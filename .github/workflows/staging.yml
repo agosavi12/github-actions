@@ -17,4 +17,4 @@ jobs:
           server: ftp.frontendhub.in
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /home1/frontend/test.frontendhub.in/
+          server-dir: /
